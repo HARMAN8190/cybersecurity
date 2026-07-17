@@ -16,17 +16,8 @@ This repository contains my daily learning progress during my cybersecurity trai
 - Learned the importance of hands-on practice in cybersecurity.
 
 <img width="1920" height="1080" alt="Screenshot 2026-07-17 111052" src="https://github.com/user-attachments/assets/0db28b84-93d9-4b9b-8503-2a7732e4ea79" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-17 111104" src="https://github.com/user-attachments/assets/cf0723dc-e437-4e67-9ff3-81f28d46abf2" />
 
-
-
-
-
-## Screenshots
-- TryHackMe Dashboard
-- My Profile
-- Learning Paths
-
----
 
 # 📅 Day 2 – 26-06-2026
 
@@ -44,11 +35,8 @@ This repository contains my daily learning progress during my cybersecurity trai
 - Learning Path Exploration
 - Basic Cybersecurity Knowledge
 
-## Screenshots
-- Learning Paths
-- Room Interface
+<img width="1089" height="771" alt="image" src="https://github.com/user-attachments/assets/f1978f5c-fc81-49cb-905f-43aaa9d22ece" />
 
----
 
 # 📅 Day 3 – 27-06-2026
 
@@ -66,11 +54,8 @@ This repository contains my daily learning progress during my cybersecurity trai
 - Task Solving
 - Cybersecurity Fundamentals
 
-## Screenshots
-- TryHackMe Progress
-- Completed Tasks
+<img width="1800" height="870" alt="Screenshot 2026-07-17 111518" src="https://github.com/user-attachments/assets/d2799aec-d986-4699-b647-a0902ba94178" />
 
----
 
 # 📅 Day 4 – 28-06-2026
 
@@ -88,12 +73,10 @@ This repository contains my daily learning progress during my cybersecurity trai
 - OSINT Basics
 - Information Gathering
 - Research Skills
+<img width="1582" height="781" alt="Screenshot 2026-07-17 111739" src="https://github.com/user-attachments/assets/10a1ff90-8a31-4acc-aa00-c66a9e7bc95e" />
 
-## Screenshots
-- Searchlight Room
-- Task Progress
+<img width="1732" height="907" alt="Screenshot 2026-07-17 111625" src="https://github.com/user-attachments/assets/1fc424b0-2deb-46c7-9b51-ab4684ea563e" />
 
----
 
 # 📅 Day 5 – 29-06-2026
 
