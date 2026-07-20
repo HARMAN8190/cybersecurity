@@ -94,12 +94,12 @@ This repository contains my daily learning progress during my cybersecurity trai
 - Google Searching
 - Open Source Intelligence
 
-## Screenshots
-- Room Completion
-- LinkedIn Post
-- TryHackMe Badge
 
----
+
+
+<img width="1582" height="781" alt="Screenshot 2026-07-17 111739" src="https://github.com/user-attachments/assets/2273bd7f-8ba6-4dd4-9fe1-ec02fe5f2b72" />
+<img width="1732" height="907" alt="Screenshot 2026-07-17 111625" src="https://github.com/user-attachments/assets/068e2c86-fe58-4685-a57a-314d22c91e0a" />
+
 
 # 📅 Day 6 – 30-06-2026
 
@@ -117,18 +117,37 @@ This repository contains my daily learning progress during my cybersecurity trai
 - Research Techniques
 - Critical Thinking
 
-## Screenshots
-- Practice Notes
-- Google Search Results
 
----
+#####using google,yandax,tineye
+<img width="1212" height="481" alt="Screenshot 2026-07-20 091117" src="https://github.com/user-attachments/assets/7ebf069f-d535-494f-88c3-5c45b3c462cc" />
+
+<img width="1398" height="572" alt="Screenshot 2026-07-20 091237" src="https://github.com/user-attachments/assets/805b4433-d801-4995-8b7b-544acf35fb19" />
+
+<img width="1697" height="891" alt="Screenshot 2026-07-20 091451" src="https://github.com/user-attachments/assets/61aa6b83-69bd-410e-9911-948508650e56" />
+
 
 # 📅 Day 7 – 01-07-2026
 
 ## Topics Covered
 - VirtualBox Installation
+
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-08 174508" src="https://github.com/user-attachments/assets/dd4e26c5-ccf9-4e17-aef1-7e8fa48d8a2a" />
+
+
+
+  
 - Kali Linux Installation
+
+
+
+<img width="1920" height="1080" alt="Screenshot 2026-07-20 101436" src="https://github.com/user-attachments/assets/92942fe1-32a1-4d30-832d-a0e8ceaca839" />
+
+
+
 - Linux Terminal Basics
+
+
 
 ## What I Learned
 - Installed VirtualBox.
@@ -154,12 +173,6 @@ grep
 - Linux Basics
 - Terminal Navigation
 
-## Screenshots
-- VirtualBox Installation
-- Kali Linux Installation
-- Linux Terminal
-
----
 
 # 📅 Day 8 – 02-07-2026
 
@@ -168,6 +181,7 @@ grep
 - Active Reconnaissance
 
 ## Passive Reconnaissance
+<img width="1736" height="781" alt="image" src="https://github.com/user-attachments/assets/d9a5d8a6-29f5-4469-b953-064e6462beb8" />
 
 ### Commands Learned
 
@@ -176,22 +190,34 @@ grep
 ```bash
 whois google.com
 ```
+<img width="927" height="713" alt="Screenshot 2026-07-20 101920" src="https://github.com/user-attachments/assets/cab6f0d9-4b0c-48dc-a518-f7996d5f67b1" />
 
 #### NSLOOKUP
 
 ```bash
 nslookup google.com
 ```
+<img width="892" height="815" alt="Screenshot 2026-07-20 102032" src="https://github.com/user-attachments/assets/71dfdbbc-6c3f-4510-954f-3309b92336a0" />
 
 #### DIG
 
 ```bash
 dig google.com
 ```
+<img width="1681" height="617" alt="Screenshot 2026-07-20 092630" src="https://github.com/user-attachments/assets/8ab6c1f3-e7bc-4105-a8fe-823c14dc0205" />
+
+<img width="1695" height="787" alt="image" src="https://github.com/user-attachments/assets/5a0a59ed-4b81-402e-841c-1f57ca5bb448" />
 
 ### Online Tools
 - DNSDumpster
 - Shodan
+
+<img width="1693" height="902" alt="Screenshot 2026-07-20 092811" src="https://github.com/user-attachments/assets/3293e7bf-2ee9-412f-acbc-062b3ff43ad6" />
+
+
+
+<img width="1655" height="832" alt="Screenshot 2026-07-20 092859" src="https://github.com/user-attachments/assets/6fb0592a-e85b-42d4-9575-7e35059327e1" />
+
 
 ## Active Reconnaissance
 
@@ -202,6 +228,8 @@ dig google.com
 ```bash
 ping google.com
 ```
+
+<img width="1392" height="657" alt="Screenshot 2026-07-20 093018" src="https://github.com/user-attachments/assets/d8436f13-cc61-45e4-93ef-07da5d4b3638" />
 
 #### telnet
 
