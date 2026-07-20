@@ -281,8 +281,16 @@ nc example.com 80
 
 ## What I Learned
 - What is Networking
+  <img width="1581" height="601" alt="Screenshot 2026-07-20 103342" src="https://github.com/user-attachments/assets/1c6b6851-73cd-4eea-b488-46083d5cb41c" />
+
 - How the Internet Works
+
+  <img width="1655" height="865" alt="Screenshot 2026-07-20 103444" src="https://github.com/user-attachments/assets/e4afb198-43af-450d-bd31-f13c23440949" />
+
 - IP Address
+
+  <img width="1570" height="815" alt="Screenshot 2026-07-20 103531" src="https://github.com/user-attachments/assets/1c7f264b-e34b-4e9f-94d9-822428521dd3" />
+
 - LAN (Local Area Network)
 - LAN Topologies
 - Subnetting Basics
@@ -294,44 +302,7 @@ nc example.com 80
 - LAN Concepts
 - Network Communication
 
-## Screenshots
-- Networking Notes
-- LAN Diagram
-- ARP Diagram
-- DHCP Diagram
 
----
 
-# 🛠️ Tools Used
-
-- TryHackMe
-- Kali Linux
-- VirtualBox
-- AttackBox
-- WHOIS
-- NSLOOKUP
-- DIG
-- DNSDumpster
-- Shodan
-- Netcat
-- Telnet
-
----
-
-# 📚 Skills Learned
-
-- Cybersecurity Fundamentals
-- TryHackMe
-- Linux Basics
-- OSINT
-- Passive Reconnaissance
-- Active Reconnaissance
-- Networking Fundamentals
-- Image Geolocation
-- Reverse Image Search
-
----
-
-## 🚀 Training Status
 
 **Learning in Progress...**
