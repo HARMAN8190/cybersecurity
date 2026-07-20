@@ -236,6 +236,7 @@ ping google.com
 ```bash
 telnet example.com 80
 ```
+<img width="876" height="595" alt="Screenshot 2026-07-20 102555" src="https://github.com/user-attachments/assets/a7590a92-2dfc-4eeb-9faf-699dfc0e8982" />
 
 #### netcat
 
@@ -277,11 +278,8 @@ nc example.com 80
 - Reverse Image Search
 - Investigation Skills
 
-## Screenshots
-- Reverse Image Search
-- Missing Person Activity
+<img width="1225" height="536" alt="Screenshot 2026-07-20 091220" src="https://github.com/user-attachments/assets/cbeb2404-8898-445c-8b58-c8a01ae052d7" />
 
----
 
 # 📅 Day 10 – 04-07-2026
 
