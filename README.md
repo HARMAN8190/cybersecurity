@@ -243,6 +243,7 @@ telnet example.com 80
 ```bash
 nc example.com 80
 ```
+<img width="942" height="303" alt="Screenshot 2026-07-20 102636" src="https://github.com/user-attachments/assets/ab7b4ae4-044d-4295-a508-a41b95bfe5ef" />
 
 ## Skills Gained
 - Domain Enumeration
@@ -250,15 +251,6 @@ nc example.com 80
 - Connectivity Testing
 - Network Reconnaissance
 
-## Screenshots
-- AttackBox
-- WHOIS Output
-- NSLOOKUP Output
-- DIG Output
-- ping Result
-- Netcat
-
----
 
 # 📅 Day 9 – 03-07-2026
 
@@ -279,6 +271,7 @@ nc example.com 80
 - Investigation Skills
 
 <img width="1225" height="536" alt="Screenshot 2026-07-20 091220" src="https://github.com/user-attachments/assets/cbeb2404-8898-445c-8b58-c8a01ae052d7" />
+<img width="1697" height="891" alt="Screenshot 2026-07-20 091451" src="https://github.com/user-attachments/assets/40a48210-a796-4ebb-bb72-4b321fd40048" />
 
 
 # 📅 Day 10 – 04-07-2026
